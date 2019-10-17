@@ -5,3 +5,6 @@ Git tracks changes.
 Git tracks changes of files
 My stupid boss still prefers SVN
 Greating a new branch is quick
+Greating a new branch is quick & simple
+Greating a new branch is quick AND simple
+
